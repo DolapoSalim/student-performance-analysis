@@ -9,10 +9,10 @@ this repo contains the analysis of a student performance analysis.
 - Associated Tasks: Classification, Regression
 - Feature Type: Integer
 
-# Instances
+#### Instances
 649
 
-# Features
+#### Features
 30
 
 #### Dataset Information
